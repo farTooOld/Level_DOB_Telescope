@@ -1,12 +1,13 @@
 # Level_DOB_Telescope
 A Level For Levelness of Telescope (primarily used for DOB's)
 
-Code is set for 0.5 Deg's Accuracy. Code reflects Calibration of the specific MPU-6050 being used (each 6050 can be different). If inaccurate, User will need to learn how to Calibrate the MPU-6050 and tweak the code (search YouTube, Internet). 
+Code is set for 0.5 Deg's Accuracy. Code reflects Calibration of the specific MPU-6050 being used (each 6050 can be different).
+If inaccurate, User will need to learn how to Calibrate the MPU-6050 and tweak the code (search YouTube, Internet). 
 If accuracy is Not far-off, you can use Shim's (paper/etc) under appropriate edge to compensate (it's much easier than Calibrating, especially for Non Geek's).
 
 The Circuit is simple and does not require a Schematic. The version shown uses a PCB that I CNC-Milled but, you can use a BreadBoard or ProtoBoard-PCB... that's up to you.
 
-The PCB-Graphic is all you need to gain the info for making a Schematic, if desired.
+The PCB-Graphic is all you need to gain the info for Wiring it and/or making a Schematic, if desired.
 
 If the LED's are too Bright, increase the Resistor Values as needed. The LED's are Recessed below the Lid. If you want them High, then don't cut their leg's short - just ensure the Lid still fits or, enlarge the Holes... (or, ask me to do it...)
 
