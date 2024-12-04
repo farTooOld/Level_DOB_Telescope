@@ -3,6 +3,9 @@ A Level For Levelness of Telescope (primarily used for DOB's)
 
 Code is set for 0.5 Deg's Accuracy. Code reflects Calibration of the specific MPU-6050 being used (each 6050 can be different).
 If inaccurate, User will need to learn how to Calibrate the MPU-6050 and tweak the code (search YouTube, Internet). 
+
+( I may tweak the Code to enable User input of Calibration Factor via user's system's Terminal... I'll think about it...)
+
 If accuracy is Not far-off, you can use Shim's (paper/etc) under appropriate edge to compensate (it's much easier than Calibrating, especially for Non Geek's).
 
 The Circuit is simple and does not require a Schematic. The version shown uses a PCB that I CNC-Milled but, you can use a BreadBoard or ProtoBoard-PCB... that's up to you.
