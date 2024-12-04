@@ -19,6 +19,6 @@ The Box has Tab's that help align the Lid (no screws needed, just use some Glue 
 
 This is Not Rocket-Science - if it works for you, Great, if not, move-on.  And, if questions or if wanting Tweaks, Modification's, new/custom 3D... just Ask...
 
-Note: The Lid does Not have a Hole for the Reset-Button because placement of the Nano is up to you... Drill a Hole over the Nano's Reset-Btn (make the diameter large enough for the 3D (.stl model) to fit. It will rest on the actual Button and can be more user friendly than re-powering the Nano.
+Note: The Lid does Not have a Hole for the Reset-Button because placement of the Nano is up to you... Drill a Hole over the Nano's Reset-Btn (make the diameter large enough for the 3D (.stl model) to fit. See Photo of the real hardware... It will rest on the actual Button and can be more user friendly than re-powering the Nano.
 
 Note: ThingiVerse seems to have trouble Publishing so, I'm posting it here, just in case... This will be the one I intend to maintain with updates
